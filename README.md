@@ -1,2 +1,2 @@
 # Demo-first-git
-First demo git project
+Now i learnig git
